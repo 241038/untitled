@@ -5,7 +5,7 @@ public class Main {
         //TIP ハイライトされたテキストにキャレットがある状態で <shortcut actionId="ShowIntentionActions"/> を押すと
         // IntelliJ IDEA によるその修正案を確認できます。
         System.out.printf("Yuria Kuwahara");
-        System.out.println("ファイルに変更を加えた");
+        System.out.println("ファイルに変更を加える");
 
         for (int i = 1; i <= 5; i++) {
             //TIP <shortcut actionId="Debug"/> を押してコードのデバッグを開始します。<icon src="AllIcons.Debugger.Db_set_breakpoint"/> ブレークポイントを 1 つ設定しましたが、
