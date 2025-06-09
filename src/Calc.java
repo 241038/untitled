@@ -6,4 +6,7 @@ public class Calc {
         int dalta = hiku(a,b);
         System.out.println("足すと" + total + "引くと" + dalta );
     }
+
+
+    }
 }
