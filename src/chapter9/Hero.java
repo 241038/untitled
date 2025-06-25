@@ -1,4 +1,4 @@
-package chapter9;
+/*package chapter9;
 
 public class Hero {
 
@@ -11,4 +11,4 @@ public class Hero {
         System.out.println(this.name + "は攻撃した！");
         System.out.println("敵に５ポイントのダメージ");
 
-}
+}*/

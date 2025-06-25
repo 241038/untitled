@@ -1,4 +1,4 @@
-public class Fukusyu9{
+/*public class Fukusyu9{
     public static void main(String[] args) {
         System.out.println("九九票を表示します")
         for(int j = 1 ; j <= 9 ; j++){
@@ -7,4 +7,4 @@ public class Fukusyu9{
         System.out.println("<UNK>");
 
     }
-}
+}*/

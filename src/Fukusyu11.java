@@ -1,4 +1,4 @@
-import java.io.BufferedReader;
+/*import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
@@ -16,4 +16,4 @@ public class Fukusyu11 {
         System.out.println("入力値" + num + "の階上" +result);
 
     }
-}
+}*/

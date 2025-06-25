@@ -1,4 +1,4 @@
-import java.io.IOException;
+/*import java.io.IOException;
 
 public class Fukusyu8 {
     public static void main(String[] args) throws IOException {
@@ -16,3 +16,4 @@ public class Fukusyu8 {
         System.out.println("最大値" + max +"最小値" + min);
     }
 }
+*/
